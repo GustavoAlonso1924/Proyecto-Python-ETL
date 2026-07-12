@@ -1,4 +1,4 @@
-# Proyecto-Python-ETL
+# Proyecto Python ETL
 
 Proyecto desarrollado para aplicar el proceso ETL.
 
